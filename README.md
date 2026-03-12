@@ -1,6 +1,8 @@
 # DDPG_FDI_SG
 Enhancing Smart Grid Cyber Resilience against FDI attacks using Multi-Agent Recurrent DDPG
 
+Contributions: Dr. Tahira Mahboob (Netlab - UofG): tahira.mahboob@yahoo.com, Mingwei Li (UoE): ml969@exeter.ac.uk
+
 ## PandaPower (Pandapower + RL)
 
 This repository contains:
